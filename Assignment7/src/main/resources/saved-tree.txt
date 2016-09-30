@@ -1,0 +1,16 @@
+animal 3
+feline 2
+tiger 2
+malayan 0
+sumatran 0
+domestic 2
+bengal 0
+oriental 0
+equine 3
+draught 0
+racing 0
+rocking 0
+fish 2
+shark 1
+mako 0
+goldfish 0

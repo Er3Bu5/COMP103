@@ -22,12 +22,41 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Assignment1" />
+        <module name="Assignment3" />
+        <module name="Assignment4" />
+        <module name="Assignment6" />
         <module name="Assignment8" />
+        <module name="Assignment9" />
+        <module name="FastFood" />
+        <module name="MazeSearch" />
+        <module name="Permutations" />
+        <module name="Sokoban" />
+      </profile>
+      <profile default="false" name="Annotation profile for COMP103" enabled="true">
+        <sourceOutputDir name="../../Assignment7/Mondrian/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../Assignment7/Mondrian/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Mondrian" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Assignment1" target="1.8" />
+      <module name="Assignment2" target="1.8" />
+      <module name="Assignment3" target="1.8" />
+      <module name="Assignment4" target="1.8" />
+      <module name="Assignment5" target="1.8" />
+      <module name="Assignment6" target="1.8" />
+      <module name="Assignment7" target="1.8" />
       <module name="Assignment8" target="1.8" />
+      <module name="Assignment9" target="1.8" />
       <module name="COMP103" target="1.8" />
+      <module name="FastFood" target="1.8" />
+      <module name="MazeSearch" target="1.8" />
+      <module name="Mondrian" target="1.8" />
+      <module name="Permutations" target="1.8" />
+      <module name="Sokoban" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

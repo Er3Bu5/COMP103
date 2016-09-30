@@ -1,0 +1,61 @@
+COMP 103 Assignment 3 
+Report on ArraySet and SortedArraySet testing and benchmarking
+
+Name: Antonio Cacciamani	
+ID: 300388626
+
+Testing:
+--------
+Which test methods failed for your implementations?
+ 
+- ArraySet:
+here i didnt understand what was being asked of me so i continued and tried to attempt to solve the issue with arraylists without casting to E, after a while i understood how to implement the generic type E and implemented an arraysets, after this i passed all test methods.
+
+
+- SortedArraySet:
+my main issue was adding binary search to the add and remove method, after i solved this issue i passed all test methods.
+
+Performance Benchmarking:
+-------------------------
+What were the results of your timing tests?
+
+Give the time to load the dictionary and the time to check the story, for 
+  - SortedArraySet, ArraySet, and HashSet, and
+  - dictionaryUnsorted.txt and dictionarySorted.txt. 
+
+Present the results, in the table below. 
+Provide times in seconds.
+
+ArraySet                         load | check (seconds)
+    dictionarySorted          300.188 | 190.154  
+    dictionaryUnsorted        295.030 | 178.117
+
+SortedArraySet                   load | check (seconds)
+    dictionarySorted            0.291 | 0.134  
+    dictionaryUnsorted        242.578 |  0.096
+
+HashSet                        load | check (seconds)
+    dictionarySorted          0.082 | 0.062  
+    dictionaryUnsorted        0.064 | 0.039
+
+
+Discussion:
+-----------
+Discuss the measurements, pointing out any interesting or unexpected results, and try to give explanations for the results. In particular, consider the following questions:
+In your answers, make reference to the sub-results for
+"loading the dictionary" and "checking the story".
+
+- How can you explain the differences in performance for the various implementations? 
+big performance difference between array set and sorted array set.
+ArraySet that doesnt use binary search is very inefficient because it is a set based on an array of elements with no particular order, will have O(n) time at least reguardless of how the containment check is implemented.
+The SortedArraySet sorts as it goes, this means that the performance is improved over all because it doesnt have to deal with fragmanted data after the dictionary was loaded.
+HashSets are the best over all because they are O(1) time, meaning that no matter how many variables are being checked it will take the same ammount of time to perform. 
+
+
+- How can you explain the differences in performance with respect to the two versions of the dictionary?
+for ArraySet, there are neglegable differences in the times between sorted and unsorted dictionary. This may be due to the fact that when my ArraySet searches through unsorted, the count on my for loops will only traverse to the last item in the arraySet rather than the last index of it. in the case of the sorted dictionary, it will always travel to the end of the array because there will not be any null values after my filled indexes.
+for SortedArraySet, the unsorted dictionary takes longer to load because it needs to process and sort the dictionary as it goes along, whereas this processing is not neccessary when the dictionary is already sorted.
+Because HashSets us a hash code to link to the item, it is very efficient to search and load the set because no for loops are required to process any arrays of data.
+
+
+ 

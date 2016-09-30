@@ -1,0 +1,20 @@
+/* Reflection.txt for COMP103
+ * Name: Antonio Cacciamani
+ * Usercode: cacciaanto	
+ * ID: 300388626
+ */
+
+For your reflection:
+====================
+
+Write a paragraph that describes an aspect of the material we've covered 
+so far (i.e. anything in the lectures to date, or this assignment) that 
+you found particularly interesting or tricky to understand. Include how 
+you went about exploring further, learning about the issue to your own 
+satisfaction. If understanding it remains a problem for you, outline 
+what your next step will be in sorting this out.
+
+I found the spiral challange to be quite difficult, but then i realised that first i needed to populate a 2d matrix.
+From here i recalled an engr123 lecture about traversing through graphs using the coordinates of their verticies and create wer. I applied this concept and thaught of an algorythm where i could create a spiral 'path' for each index to be sorted into in a sequential order. Then it was the usual taks of drawing out the matrix via the same method as in the square method.
+
+got help from inti for the move is game over method in board 16

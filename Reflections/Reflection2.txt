@@ -1,0 +1,27 @@
+/* Reflection.txt for COMP103
+ * Name:antonio cacciamani
+ * Usercode:cacciaanto
+ * ID:300388626
+ */
+
+--------------------------------------------------------------------
+Time spent to the nearest hour on FastFood: 7
+Time spent to the nearest hour on Sokoban: 2
+
+Please do answer on the corresponding LINE, not below or above the
+line as it would make the extraction of the data more difficult.
+--------------------------------------------------------------------
+
+For your reflection:
+====================
+
+Describe how far you got. If there was a problem you got stuck on, what was that problem?
+i found the concepts of fast food quite difficult and felt as if i had been dropped in the deep end all of a sudden. with a small ammount of help i was able to get up to completion for part 1 i found transferring from the old code to the new code, which utalises a map for pricing and using arrays and queues to manage the orders, to be quite difficult to initially get my head around, but after some thaught, i managed.
+
+Reading and understanding someone else's code is difficult. What elements of Sokoban made it easier or made it more difficult for you to understand? Can you identify things that you would do or avoid doing if you were trying to make your own code easily understood by someone else? 
+i dont understand why a direction suddely becomes an action
+
+
+
+--------------------------------------------------------------------
+

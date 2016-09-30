@@ -1,0 +1,28 @@
+/* Reflection.txt for COMP103
+ * Name: antonio cacciamani
+ * Usercode: cacciaanto
+ * ID: 300388626
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+completion, i struggled wth printPathToRoot because i forgot about using the parent node to recurse up the tree. once i realised this, was easy
+
+* When you load in the same taxonomy from the file over and over again, you may notice that some times the tree is displayed differently. Why?
+
+we are loading items from an unordered set, therefore the tree can have a diffrent order each time.
+
+* In the inSubtree(...) method used in the completion, we try to ensure that if a node is moved (along with it's subtree), then it isn't 
+moved into it's own subtree. Discuss two problems that could occur if we allowed a node (along with it's subtree) to become a child of one 
+of the nodes in that subtree.
+
+if you have a leaf node pointing to a root, you will have an infinite loop, therefore you wont be able to recurse past that loop. 
+if you have a leaf node pointing to a parent node THAT IS NOT the root of the tree, a loop will be created that is disjoint from the 
+rest of the tree, therefore that loop will be inaccessable from the rest of the tree.
+----------------------------------------------------------------

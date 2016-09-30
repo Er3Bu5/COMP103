@@ -10,6 +10,14 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Assignment8</module>
+        <module>Assignment1</module>
+        <module>Assignment2</module>
+        <module>Assignment3</module>
+        <module>Assignment4</module>
+        <module>Assignment5</module>
+        <module>Assignment6</module>
+        <module>Assignment7</module>
+        <module>Assignment9</module>
     </modules>
     <repositories>
         <repository>

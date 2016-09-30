@@ -1,0 +1,45 @@
+/* Reflection.txt for COMP103
+ * Name: antonio cacciamani
+ * Usercode: cacciaanto
+ * ID: 300388626
+ */
+
+For your reflection:
+====================
+
+First, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+espectively. If there were any problems you got stuck on, what were they?
+
+Sometimes a recursive method can alternatively be written just using simple
+loops. What do think determines whether this is possible or not? 
+
+What are the advantages/disadvantages of using recursive methods rather than
+loops?
+
+Many people find recursion hard to understand at first, although it doesn't do
+anything different from previous programs - it just involves methods which call
+methods.  Why is it tricky then?
+
+--------------------------------------------------------------------
+finished up to completion, got everything working. got stuck on the randomness for mondrian, 
+i used a decimal to calculate in place of percentage from 0.25 to 0.75, meaning i had to cast 
+the operand as a double to get it working as expected within an int equation, i used shorthand
+'d' to make it more clear instead of the %ff method or putting a '.0'
+
+you can write any recursive method as an iterative one, so it really all comes down to the 
+circumstance. in some situations an iterative approach may be benificial, or 
+easier to code in comparison to a recusive one, and there are other situations where the 
+opposite is true. an example of a situation being better in a recursive form; the fibonacci 
+sequence.
+
+pros:
+recursive methods are usefull for reducing the time complexity of the program, 
+also it makes navigating trees easy.
+con:
+uses more of the system stack to do so.
+
+i find recursion difficult because you have to think about how the variable will change over 
+each iteration, and seeing as it will be the same code over every iteration of the method, 
+you need to put more thougt into your code.

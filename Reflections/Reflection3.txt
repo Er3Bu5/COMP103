@@ -1,0 +1,22 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Describe how far you got on this assignment. Please be specific about what you
+attempted (core, completion, challenge, and any finer-grained goals, if
+applicable). Please also state how successful you believe you were respectively.
+If there were any problems you got stuck on, what were they? 
+i did up to completion and believe i did well respectively, i feel that both my ArraySet and SortedArraySet code is as well optimised as i am able to do with my current level of knowledge.
+
+The Java collection library provides several different implementations of the
+Set type, including HashSet and TreeSet. Why does it not provide ArraySet?
+After all, Java provides the ArrayList implementation of the List type!
+As stated in my report, ArraySet is very inefficient because it is a set based on an array of elements with no particular order. it will have O(n) time at least reguardless of how the containment check is implemented. meaning that it is considered that there are no benefits of implementing an ArraySet that aren't achieved elsewhere, more efficiently. which is why it is no longer supported by java
+
+--------------------------------------------------------------------
+
