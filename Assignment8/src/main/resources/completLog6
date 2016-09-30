@@ -1,0 +1,525 @@
+1 -
+2 urgent newtown
+3 urgent brooklyn
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+11 -
+12 -
+13 standard mtvictoria
+14 urgent wilton 
+15 -
+16 -
+17 urgent mtvictoria
+18 -
+19 -
+20 urgent wilton 
+21 standard miramar
+22 -
+23 -
+24 -
+25 -
+26 standard newtown
+27 -
+28 -
+29 -
+30 -
+31 -
+32 -
+33 -
+34 -
+35 -
+36 -
+37 -
+38 -
+39 -
+40 -
+41 -
+42 -
+43 -
+44 urgent city
+45 -
+46 -
+47 -
+48 -
+49 standard wilton 
+50 -
+51 -
+52 -
+53 -
+54 -
+55 -
+56 -
+57 -
+58 -
+59 -
+60 -
+61 standard ngaio
+62 standard kelburn
+63 -
+64 standard wilton 
+65 -
+66 urgent city
+67 -
+68 -
+69 -
+70 -
+71 standard city
+72 -
+73 -
+74 -
+75 -
+76 -
+77 -
+78 -
+79 -
+80 -
+81 -
+82 -
+83 -
+84 standard newtown
+85 -
+86 -
+87 -
+88 -
+89 -
+90 -
+91 -
+92 -
+93 standard kelburn
+94 urgent kelburn
+95 -
+96 -
+97 -
+98 -
+99 -
+100 -
+101 -
+102 -
+103 -
+104 urgent city
+105 -
+106 -
+107 -
+108 -
+109 standard mtvictoria
+110 -
+111 -
+112 -
+113 -
+114 -
+115 standard karori
+116 -
+117 -
+118 -
+119 -
+120 -
+121 -
+122 -
+123 -
+124 standard miramar
+125 -
+126 -
+127 -
+128 -
+129 standard mtvictoria
+130 -
+131 -
+132 -
+133 standard ngaio
+134 -
+135 standard wilton 
+136 -
+137 -
+138 -
+139 urgent kelburn
+140 urgent wilton 
+141 -
+142 -
+143 -
+144 -
+145 -
+146 -
+147 -
+148 standard ngaio
+149 -
+150 -
+151 -
+152 urgent ngaio
+153 -
+154 standard miramar
+155 -
+156 -
+157 -
+158 urgent karori
+159 -
+160 -
+161 -
+162 -
+163 -
+164 urgent brooklyn
+165 -
+166 -
+167 -
+168 urgent highbury
+169 -
+170 -
+171 -
+172 urgent karori
+173 -
+174 -
+175 -
+176 -
+177 -
+178 -
+179 -
+180 -
+181 -
+182 standard ngaio
+183 -
+184 standard wilton 
+185 -
+186 -
+187 -
+188 -
+189 -
+190 -
+191 urgent kelburn
+192 -
+193 -
+194 -
+195 -
+196 -
+197 standard wilton 
+198 standard brooklyn
+199 -
+200 -
+201 -
+202 -
+203 standard highbury
+204 -
+205 -
+206 -
+207 urgent brooklyn
+208 -
+209 -
+210 -
+211 -
+212 -
+213 -
+214 -
+215 -
+216 -
+217 -
+218 -
+219 -
+220 -
+221 -
+222 -
+223 -
+224 -
+225 -
+226 -
+227 -
+228 -
+229 -
+230 -
+231 -
+232 -
+233 -
+234 -
+235 -
+236 -
+237 -
+238 -
+239 -
+240 standard brooklyn
+241 -
+242 -
+243 standard mtvictoria
+244 standard ngaio
+245 -
+246 -
+247 standard miramar
+248 urgent brooklyn
+249 -
+250 -
+251 urgent kelburn
+252 -
+253 -
+254 -
+255 -
+256 -
+257 -
+258 -
+259 -
+260 -
+261 standard brooklyn
+262 standard brooklyn
+263 -
+264 -
+265 urgent miramar
+266 -
+267 -
+268 -
+269 -
+270 -
+271 -
+272 -
+273 -
+274 standard miramar
+275 -
+276 -
+277 -
+278 -
+279 standard kelburn
+280 standard karori
+281 -
+282 standard miramar
+283 -
+284 -
+285 -
+286 -
+287 -
+288 urgent ngaio
+289 -
+290 standard highbury
+291 -
+292 -
+293 standard mtvictoria
+294 -
+295 -
+296 -
+297 -
+298 -
+299 -
+300 -
+301 -
+302 urgent highbury
+303 -
+304 -
+305 -
+306 -
+307 -
+308 -
+309 -
+310 -
+311 standard ngaio
+312 standard karori
+313 standard brooklyn
+314 standard newtown
+315 -
+316 -
+317 -
+318 -
+319 -
+320 -
+321 -
+322 -
+323 -
+324 -
+325 -
+326 standard ngaio
+327 -
+328 -
+329 -
+330 standard brooklyn
+331 standard miramar
+332 standard wilton 
+333 -
+334 -
+335 -
+336 -
+337 -
+338 -
+339 -
+340 -
+341 -
+342 -
+343 -
+344 standard city
+345 -
+346 -
+347 -
+348 -
+349 -
+350 -
+351 -
+352 -
+353 -
+354 urgent newtown
+355 -
+356 -
+357 -
+358 standard city
+359 -
+360 -
+361 -
+362 -
+363 -
+364 -
+365 -
+366 -
+367 -
+368 -
+369 -
+370 -
+371 -
+372 -
+373 -
+374 -
+375 -
+376 -
+377 -
+378 -
+379 -
+380 -
+381 -
+382 -
+383 -
+384 standard ngaio
+385 -
+386 standard ngaio
+387 -
+388 -
+389 -
+390 -
+391 standard mtvictoria
+392 -
+393 -
+394 -
+395 -
+396 urgent mtvictoria
+397 -
+398 -
+399 -
+400 -
+401 -
+402 standard ngaio
+403 -
+404 -
+405 -
+406 -
+407 -
+408 standard highbury
+409 -
+410 -
+411 -
+412 -
+413 -
+414 -
+415 standard ngaio
+416 -
+417 -
+418 -
+419 -
+420 -
+421 -
+422 -
+423 -
+424 standard karori
+425 -
+426 -
+427 -
+428 -
+429 -
+430 -
+431 -
+432 -
+433 -
+434 -
+435 -
+436 standard miramar
+437 -
+438 -
+439 -
+440 -
+441 standard newtown
+442 -
+443 -
+444 -
+445 -
+446 -
+447 -
+448 -
+449 -
+450 standard highbury
+451 -
+452 -
+453 standard mtvictoria
+454 -
+455 -
+456 -
+457 -
+458 -
+459 -
+460 -
+461 -
+462 -
+463 standard karori
+464 standard ngaio
+465 urgent newtown
+466 -
+467 -
+468 -
+469 -
+470 -
+471 -
+472 -
+473 -
+474 -
+475 -
+476 -
+477 -
+478 -
+479 -
+480 -
+481 -
+482 -
+483 -
+484 -
+485 -
+486 -
+487 -
+488 -
+489 -
+490 -
+491 -
+492 -
+493 -
+494 -
+495 -
+496 -
+497 -
+498 -
+499 -
+500 -
+501 -
+502 -
+503 -
+504 -
+505 -
+506 -
+507 -
+508 -
+509 -
+510 -
+511 -
+512 -
+513 -
+514 -
+515 -
+516 -
+517 -
+518 -
+519 -
+520 -
+521 -
+522 -
+523 -
+524 -
+525 -

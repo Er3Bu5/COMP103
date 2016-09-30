@@ -1,0 +1,10 @@
+kelburn 8
+karori 15
+city 5
+miramar 20
+brooklyn 14
+newtown 10
+mtvictoria 8
+wilton  12
+ngaio 17
+highbury 12
