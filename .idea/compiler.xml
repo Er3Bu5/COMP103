@@ -27,9 +27,9 @@
         <module name="Assignment4" />
         <module name="Assignment6" />
         <module name="Assignment8" />
-        <module name="Assignment9" />
         <module name="FastFood" />
         <module name="MazeSearch" />
+        <module name="MoleculeRenderer" />
         <module name="Permutations" />
         <module name="Sokoban" />
       </profile>
@@ -54,6 +54,7 @@
       <module name="COMP103" target="1.8" />
       <module name="FastFood" target="1.8" />
       <module name="MazeSearch" target="1.8" />
+      <module name="MoleculeRenderer" target="1.8" />
       <module name="Mondrian" target="1.8" />
       <module name="Permutations" target="1.8" />
       <module name="Sokoban" target="1.8" />

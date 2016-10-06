@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment9/ArrayQueue/ArrayQueue.iml" filepath="$PROJECT_DIR$/Assignment9/ArrayQueue/ArrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1/Assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2/Assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Assignment3/Assignment3.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/COMP103.iml" filepath="$PROJECT_DIR$/COMP103.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment2/FastFood/FastFood.iml" filepath="$PROJECT_DIR$/Assignment2/FastFood/FastFood.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment5/MazeSearch/MazeSearch.iml" filepath="$PROJECT_DIR$/Assignment5/MazeSearch/MazeSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment9/MoleculeRenderer/MoleculeRenderer.iml" filepath="$PROJECT_DIR$/Assignment9/MoleculeRenderer/MoleculeRenderer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment5/Mondrian/Mondrian.iml" filepath="$PROJECT_DIR$/Assignment5/Mondrian/Mondrian.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment5/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Assignment5/Permutations/Permutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment2/Sokoban/Sokoban.iml" filepath="$PROJECT_DIR$/Assignment2/Sokoban/Sokoban.iml" />
