@@ -1,0 +1,37 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+completion, i was getting file reading errors on my moleculeRenderer due to intellij not
+having the correct working directory,
+
+* What is the point of comparators?  Why are they necessary in general?
+  Could you suggest an alternative way of solving the same problems that didn't
+  involve having to make these additional classes?
+
+  comparators are useful for compare things other than ints or doubles,
+  making it easier to give objects order when they have no direct number assigned to them.
+
+  the only other way i could think of solving this problem in another way would be to pit
+  the checking code in methods rather than using the comparator, or add the comparator
+  via a lambda expression
+
+* Coming up with good test methods can be as hard as writing the code that it is
+  testing.  Suggest some guidelines or principles for writing good test methods.
+
+- make all error messages easy to understand and meaningful
+- test only one method at a time
+- make smaller test methods to check certain errors rather than one big test method
+to check all errors
+
+--------------------------------------------------------------------

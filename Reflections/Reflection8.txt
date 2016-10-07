@@ -1,0 +1,122 @@
+/* Reflection.txt for COMP103
+ * Name:
+ * Usercode:
+ * ID:
+ */
+
+For your reflection:
+====================
+
+Firstly, describe how far you got, on this assignment. Please be specific about
+what you attempted (core, completion, challenge, and any finer-grained goals,
+if applicable). Please also state how successful you believe you were
+respectively. If there were any problems you got stuck on, what were they?
+
+completion, was getting null pointer exeptions on my bubbleup and sinkDown, 
+i thaught parent node was (i-1)/2 but seeing as i start at 1 i dont need the -1 part
+similar story for the children in sinkdown
+
+What part(s) of the assignment did you find most difficult?
+
+completion
+
+
+If you completed the completion part:
+
+Show the results you obtained when using the priorty queue and compare them
+to the results you obtained with the ordinary queue.
+
+"C:\Program Files\Java\jdk1.8.0_101\bin\java" -Didea.launcher.port=7536 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Users\Mussel Pot\Desktop\COMP103\Assignment 8\target\classes;C:\Users\Mussel Pot\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Mussel Pot\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Mussel Pot\.m2\repository\nz\ac\victoria\ecs\ecs\100\ecs-100.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain BellsPizzaSimulation
+======================= Log File: completLog1 =======================
+StandardQueue:  on time: 31, late:69 (urgent=14, std=21, undelivered=34), Profit: $-1096.00
+PriorityQueue:  on time: 65, late:35 (urgent= 3, std= 1, undelivered=31), Profit: $-95.50
+                                                                          Saving = $1000.50
+======================= Log File: completLog2 =======================
+StandardQueue:  on time: 26, late:65 (urgent=11, std=24, undelivered=30), Profit: $-1074.00
+PriorityQueue:  on time: 56, late:35 (urgent= 6, std= 0, undelivered=29), Profit: $-335.50
+                                                                          Saving = $738.50
+======================= Log File: completLog3 =======================
+StandardQueue:  on time: 24, late:89 (urgent=16, std=27, undelivered=46), Profit: $-1470.50
+PriorityQueue:  on time: 60, late:53 (urgent= 4, std= 0, undelivered=49), Profit: $-481.50
+                                                                          Saving = $989.00
+======================= Log File: completLog4 =======================
+StandardQueue:  on time: 22, late:87 (urgent=17, std=26, undelivered=44), Profit: $-1492.00
+PriorityQueue:  on time: 56, late:53 (urgent= 7, std= 0, undelivered=46), Profit: $-532.50
+                                                                          Saving = $959.50
+======================= Log File: completLog5 =======================
+StandardQueue:  on time: 17, late:81 (urgent=12, std=32, undelivered=37), Profit: $-1406.00
+PriorityQueue:  on time: 53, late:45 (urgent= 6, std= 0, undelivered=39), Profit: $-464.50
+                                                                          Saving = $941.50
+======================= Log File: completLog6 =======================
+StandardQueue:  on time: 29, late:55 (urgent=17, std=14, undelivered=24), Profit: $-906.50
+PriorityQueue:  on time: 59, late:25 (urgent= 2, std= 0, undelivered=23), Profit: $-86.00
+                                                                          Saving = $820.50
+======================= Log File: completLog7 =======================
+StandardQueue:  on time: 24, late:73 (urgent=12, std=25, undelivered=36), Profit: $-1256.00
+PriorityQueue:  on time: 53, late:44 (urgent= 5, std= 0, undelivered=39), Profit: $-504.00
+                                                                          Saving = $752.00
+======================= Log File: completLog8 =======================
+StandardQueue:  on time: 30, late:68 (urgent=14, std=22, undelivered=32), Profit: $-1108.00
+PriorityQueue:  on time: 54, late:44 (urgent= 7, std= 0, undelivered=37), Profit: $-449.00
+                                                                          Saving = $659.00
+======================= Log File: completLog9 =======================
+StandardQueue:  on time: 24, late:81 (urgent=18, std=23, undelivered=40), Profit: $-1419.50
+PriorityQueue:  on time: 61, late:44 (urgent= 4, std= 1, undelivered=39), Profit: $-327.00
+                                                                          Saving = $1092.50
+======================= Log File: completLog10 =======================
+StandardQueue:  on time: 40, late:60 (urgent=11, std=17, undelivered=32), Profit: $-848.00
+PriorityQueue:  on time: 61, late:39 (urgent= 6, std= 0, undelivered=33), Profit: $-308.00
+                                                                          Saving = $540.00
+======================= Log File: completLog11 =======================
+StandardQueue:  on time: 18, late:94 (urgent=19, std=27, undelivered=48), Profit: $-1576.00
+PriorityQueue:  on time: 62, late:50 (urgent= 2, std= 1, undelivered=47), Profit: $-375.50
+                                                                          Saving = $1200.50
+======================= Log File: completLog12 =======================
+StandardQueue:  on time: 21, late:69 (urgent=13, std=26, undelivered=30), Profit: $-1221.50
+PriorityQueue:  on time: 53, late:37 (urgent= 6, std= 0, undelivered=31), Profit: $-339.50
+                                                                          Saving = $882.00
+======================= Log File: completLog13 =======================
+StandardQueue:  on time: 22, late:81 (urgent=12, std=27, undelivered=42), Profit: $-1345.50
+PriorityQueue:  on time: 58, late:45 (urgent= 4, std= 1, undelivered=40), Profit: $-390.50
+                                                                          Saving = $955.00
+======================= Log File: completLog14 =======================
+StandardQueue:  on time: 16, late:83 (urgent=11, std=34, undelivered=38), Profit: $-1433.00
+PriorityQueue:  on time: 55, late:44 (urgent= 9, std= 0, undelivered=35), Profit: $-491.50
+                                                                          Saving = $941.50
+======================= Log File: completLog15 =======================
+StandardQueue:  on time: 32, late:51 (urgent=13, std=17, undelivered=21), Profit: $-844.00
+PriorityQueue:  on time: 58, late:25 (urgent= 3, std= 2, undelivered=20), Profit: $-128.50
+                                                                          Saving = $715.50
+======================= Log File: completLog16 =======================
+StandardQueue:  on time: 20, late:82 (urgent=22, std=21, undelivered=39), Profit: $-1482.00
+PriorityQueue:  on time: 52, late:50 (urgent= 8, std= 0, undelivered=42), Profit: $-639.50
+                                                                          Saving = $842.50
+======================= Log File: completLog17 =======================
+StandardQueue:  on time: 35, late:47 (urgent=24, std= 7, undelivered=16), Profit: $-905.00
+PriorityQueue:  on time: 53, late:29 (urgent= 8, std= 1, undelivered=20), Profit: $-290.50
+                                                                          Saving = $614.50
+======================= Log File: completLog18 =======================
+StandardQueue:  on time: 19, late:88 (urgent=14, std=29, undelivered=45), Profit: $-1497.00
+PriorityQueue:  on time: 57, late:50 (urgent= 2, std= 1, undelivered=47), Profit: $-395.00
+                                                                          Saving = $1102.00
+======================= Log File: completLog19 =======================
+StandardQueue:  on time: 34, late:60 (urgent=15, std=11, undelivered=34), Profit: $-993.50
+PriorityQueue:  on time: 56, late:38 (urgent= 8, std= 1, undelivered=29), Profit: $-305.00
+                                                                          Saving = $688.50
+======================= Log File: completLog20 =======================
+StandardQueue:  on time: 31, late:77 (urgent=13, std=15, undelivered=49), Profit: $-1309.00
+PriorityQueue:  on time: 50, late:58 (urgent= 7, std= 0, undelivered=51), Profit: $-701.00
+                                                                          Saving = $608.00
+as you can see the priority queue saves atleast half the money and is therefore 
+
+Explain how you incorporated the distance into the scheduling (if at all),
+and what effect this had.
+
+
+i dont understand the question
+
+
+
+
+----------------------------------------------------------------
+

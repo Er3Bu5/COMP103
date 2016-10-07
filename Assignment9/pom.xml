@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>MoleculeRenderer</module>
-        <module>ArrayQueueTest</module>
+        <module>ArrayQueue</module>
     </modules>
 
 
